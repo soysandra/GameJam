@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
 
     [Header("Puntuación")]
     public TMP_Text textoScore;
-    public int puntuacion = 100;
+    public int puntuacion = 50;
 
     [Header("Vidas")]
     public int vidas = 3;                 // vidas iniciales
@@ -77,7 +77,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Victoria()
     {
-        if (puntuacion >= 100)
+        if (puntuacion >= 50)
         {
             Time.timeScale = 0;
             panelVictoria.SetActive(true);

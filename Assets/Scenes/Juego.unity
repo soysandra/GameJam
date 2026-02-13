@@ -9779,8 +9779,8 @@ MonoBehaviour:
   tilemapPuntos: {fileID: 92877350}
   metalBuenoPrefab: {fileID: 6263524631959976792, guid: 3768fbbe938e93e49bf80d65f9ec5cbd, type: 3}
   metalMaloPrefab: {fileID: 6263524631959976792, guid: 0a97f19eec1983d4588ffb3c222bd8f1, type: 3}
-  cantidadBuenos: 110
-  cantidadMalos: 50
+  cantidadBuenos: 70
+  cantidadMalos: 40
   jugador: {fileID: 1466551349996515204, guid: 03ae9380f2378d14e99ebd467cb15bec, type: 3}
   distanciaMinimaJugador: 1
 --- !u!4 &1758729800
